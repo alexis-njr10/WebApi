@@ -1,0 +1,12 @@
+Acceder desde web:
+Url: https://mssql.site4now.net/default.asp
+SQL SERVER IP :	SQL5112.site4now.net
+Port : (Please Use 1433) 1433
+Database Name :	db_aa46bb_aspnet2024001
+User Name :	db_aa46bb_aspnet2024001_admin
+Password :	NT5tY2AmKd-uxMh
+
+Acceder desde script
+Desde la consola de administrador de paquetes ejecutar el comando:
+update-database
+
